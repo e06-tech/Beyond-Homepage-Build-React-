@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/argon-design-system-react/static/css/main.d44a7bd4.chunk.css",
+    "main.js": "/argon-design-system-react/static/js/main.f6082f29.chunk.js",
+    "main.js.map": "/argon-design-system-react/static/js/main.f6082f29.chunk.js.map",
+    "runtime-main.js": "/argon-design-system-react/static/js/runtime-main.4ec0cab4.js",
+    "runtime-main.js.map": "/argon-design-system-react/static/js/runtime-main.4ec0cab4.js.map",
+    "static/js/2.a718db4d.chunk.js": "/argon-design-system-react/static/js/2.a718db4d.chunk.js",
+    "static/js/2.a718db4d.chunk.js.map": "/argon-design-system-react/static/js/2.a718db4d.chunk.js.map",
+    "index.html": "/argon-design-system-react/index.html",
+    "static/css/main.d44a7bd4.chunk.css.map": "/argon-design-system-react/static/css/main.d44a7bd4.chunk.css.map",
+    "static/js/2.a718db4d.chunk.js.LICENSE.txt": "/argon-design-system-react/static/js/2.a718db4d.chunk.js.LICENSE.txt",
+    "static/js/main.f6082f29.chunk.js.LICENSE.txt": "/argon-design-system-react/static/js/main.f6082f29.chunk.js.LICENSE.txt",
+    "static/media/BEYOND_main.png": "/argon-design-system-react/static/media/BEYOND_main.1f0a3705.png",
+    "static/media/BEYOND_trans3.png": "/argon-design-system-react/static/media/BEYOND_trans3.0c992dc4.png",
+    "static/media/YBL-logo.png": "/argon-design-system-react/static/media/YBL-logo.96b77d54.png",
+    "static/media/celo.png": "/argon-design-system-react/static/media/celo.94223161.png",
+    "static/media/ewha-chain-logo.jpg": "/argon-design-system-react/static/media/ewha-chain-logo.11c13342.jpg",
+    "static/media/flow.png": "/argon-design-system-react/static/media/flow.39158ac8.png",
+    "static/media/font-awesome.min.css": "/argon-design-system-react/static/media/fontawesome-webfont.f691f37e.woff",
+    "static/media/nucleo.css": "/argon-design-system-react/static/media/nucleo-icons.d6a66724.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4ec0cab4.js",
+    "static/js/2.a718db4d.chunk.js",
+    "static/css/main.d44a7bd4.chunk.css",
+    "static/js/main.f6082f29.chunk.js"
+  ]
+}
